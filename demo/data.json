@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Tran Van Khanh Nhan",
+        "email": "khanhtran77204@gmail.com",
+        "age": 20,
+        "status": true
+    }, 
+
+    {
+        "name": "Tran Ngoc Tien",
+        "email": "ngoctien77204@gmail.com",
+        "age": 21,
+        "status": true
+    }, 
+
+    {
+        "name": "Nguyen Thanh Nhan",
+        "email": "thanhnhan77204@gmail.com",
+        "age": 22,
+        "status": true
+    }, 
+
+    {
+        "name": "Dinh Huynh Minh Chau",
+        "email": "minhchau77204@gmail.com",
+        "age": 23,
+        "status": true
+    }
+]
